@@ -45,8 +45,7 @@ Couples Resort Responsive Build
  .cr-red {
     color: #9a2018;
  }
- 
- 
+
  /* 2. ---Main Nav--- */
  
  #main-nav label img {
@@ -70,17 +69,7 @@ Couples Resort Responsive Build
    transform: rotate(90deg);
  }
  
-    /* add */
- 
- 
- 
- /*   ~ sibling selector   */
- 
- 
- 
- 
-    /* add */
- 
+   
  
  
  #main-nav ul {
@@ -247,7 +236,7 @@ Couples Resort Responsive Build
  }
  
  .why-choose-us-image-con p {
-    font-size: 12px;
+    font-size: 14px;
     margin-bottom: 20px;
     line-height: 20px;
  }

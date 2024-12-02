@@ -1,0 +1,97 @@
+#hero1 {
+    background: url(../images/Spa-1.png) no-repeat;
+    height: 250px;
+ }
+ 
+
+
+
+#spa2-hero-con {
+    background: url(../images/spa-2.png) no-repeat;
+    height: 195px;
+  }
+  
+  #spa2-heading-box {
+     align-self: end;
+  }
+
+ 
+ .spa2-us-image {
+    float: left;
+    margin-right: 20px;
+    margin-top: 30px;
+ }
+ 
+ .spa2-image-con h2 {
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+ }
+ 
+
+
+  .spa2-image-con h2 {
+     font-size: 14px;
+     margin-bottom: 20px;
+     margin-top: 30px;
+  }
+  
+  .spa2-image-con p {
+     font-size: 14px;
+     margin-bottom: 20px;
+     line-height: 20px;
+  }
+ 
+  
+#spa3-hero-con {
+    background: url(../images/spa-3.png) no-repeat;
+    height: 250px;
+ }
+ 
+ #spa3-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #spa3-text {
+    padding-bottom: 60px;
+ }
+ 
+ #spa3-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+
+ }#spa4-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #spa4-text {
+    padding-bottom: 60px;
+ }
+ #spa4-hero-con {
+    background: url(../images/spa-4.png) no-repeat;
+    height: 250px;
+ }
+ #spa4-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
+ #spa5-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #spa5-text {
+    padding-bottom: 60px;
+ }
+ #spa5-hero-con {
+    background: url(../images/spa-5.png) no-repeat;
+    height: 250px;
+ }
+ #spa5-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 

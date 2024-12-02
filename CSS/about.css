@@ -1,0 +1,98 @@
+#hero2 {
+    background: url(../images/about1.png) no-repeat;
+    height: 250px;
+ }
+ 
+
+
+
+#about2-hero-con {
+    background: url(../images/about2.png) no-repeat;
+    height: 195px;
+  }
+  
+  #about2-heading-box {
+     align-self: end;
+  }
+
+ 
+ .about2-us-image {
+    float: left;
+    margin-right: 20px;
+    margin-top: 30px;
+ }
+ 
+ .about2-image-con h2 {
+    font-size: 14px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+ }
+ 
+
+
+  .about2-image-con h2 {
+     font-size: 14px;
+     margin-bottom: 20px;
+     margin-top: 30px;
+  }
+  
+  .about2-image-con p {
+     font-size: 14px;
+     margin-bottom: 20px;
+     line-height: 20px;
+  }
+ 
+  
+#about3-hero-con {
+    background: url(../images/about3.png) no-repeat;
+    height: 250px;
+ }
+ 
+ #about3-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #about3-text {
+    padding-bottom: 60px;
+ }
+ 
+ #about3-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+
+ }
+ #about4-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #about4-text {
+    padding-bottom: 60px;
+ }
+ #about4-hero-con {
+    background: url(../images/about4.png) no-repeat;
+    height: 250px;
+ }
+ #about4-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
+ #about5-hero-heading-box {
+    align-self: end;
+ }
+ 
+ #about5-text {
+    padding-bottom: 60px;
+ }
+ #about5-hero-con {
+    background: url(../images/about5.png) no-repeat;
+    height: 250px;
+ }
+ #about5-text p {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 22px;
+ }
+ 
