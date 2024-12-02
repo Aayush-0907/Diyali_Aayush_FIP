@@ -1,0 +1,228 @@
+#desk span {
+    font-size: 14px;
+}
+
+#desk h3 {
+    padding: 10px;
+    padding-left: 25px;
+    font-size: 24px;
+}
+
+#desk ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+#desk ul li a,
+#desk ul li summary {
+    display: block;
+    padding: 10px 45px 10px 0;
+    color: #626262;
+}
+
+#desk ul li a:hover,
+#desk ul li summary:hover {
+    cursor: pointer;
+    color: #9a2018;
+}
+
+#desk ul li details a {
+    font-size: 10px;
+    padding: 10px 0;
+    border-bottom: solid 1px #CF6666;
+}
+
+.desk-small-par {
+    font-size: 16px;
+}
+
+.desk-heading-box {
+    background-color: white;
+    align-self: last baseline;
+}
+
+/* Main Header */
+#desk-main-header {
+    display: grid;
+    align-items: center;
+}
+
+#desk-main-nav-logo {
+    border-right: grey solid 3px;
+    padding-right: 50px;
+    margin: 30px 0px;
+}
+
+#desk-main-header-booknow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    color: white;
+    background-color: #9a2018;
+    transition: 0.5s ease-in-out;
+    height: 100%;
+}
+
+#desk-main-header-booknow:hover {
+    background-color: rgb(196, 28, 28);
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+/* Main Hero */
+#desk-main-hero {
+    background-image: url(../images/desk1.png);
+    background-repeat: no-repeat;
+    height: 450px;
+}
+/* Main Hero */
+#desk-main-hero2 {
+    background-image: url(../images/desk2.png);
+    background-repeat: no-repeat;
+    height: 450px;
+}
+#desk-main-hero3 {
+    background-image: url(../images/desk3.png);
+    background-repeat: no-repeat;
+    height: 450px;
+}
+#desk-main-hero4 {
+    background-image: url(../images/desk5.png);
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+
+
+
+
+
+
+
+#desk-hero-info {
+    padding-top: 45px;
+}
+
+#desk-hero-info p {
+    margin-bottom: 20px;
+}
+
+#desk-hero-infoA {
+    padding-top: 45px;
+}
+
+#desk-hero-infoB p {
+    margin-bottom: 20px;
+}
+
+#desk-hero-infoB {
+    padding-top: 45px;
+}
+
+#desk-hero-infoB p {
+    
+    margin-bottom: 20px;
+}
+
+#desk-hero-infoC {
+    padding-top: 45px;
+}
+
+#desk-hero-infoC p {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+#desk-footer {
+   
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    height: 450px;
+    margin-top: 50px;
+}
+
+#desk-footer-info {
+    align-self: last baseline;
+}
+
+#desk-footer-info h3 {
+    font-weight: normal;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0px;
+}
+
+#desk-footer-info p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+#desk-footer-nav {
+    display: flex;
+    height: 105px;
+    align-self: center;
+}
+
+#desk-footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#desk-footer-nav li a {
+    display: block;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+}
+
+.desk-footer-links {
+    display: flex;
+    flex-direction: column;
+}
+
+#desk-footer-book-now {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    background-color: #9a2018;
+    transition: 0.5s ease-in-out;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    height: 120px;
+}
+
+#desk-footer-book-now:hover {
+    background-color: rgb(196, 28, 28);
+    transition: 0.5s ease-in-out;
+    cursor: pointer;
+}
+
+#desk-footer-book-now a {
+    color: white;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#desk-footer-book-now:target {
+    animation: scale-up-down 0.4s ease-in-out;
+}
+
+#desk-footer-legal p {
+    font-size: 12px;
+    line-height: 1.5;
+    margin-top: 20px;
+}
